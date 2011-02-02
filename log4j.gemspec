@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Jonathan D. Simms", "A cast of thousands"]
   s.email       = ["slyphon@gmail.com"]
   s.summary     = %q{the log4j jar file in a gem}
+  s.homepage    = %q[https://github.com/slyphon/log4j_gem]
   s.description = s.summary
 
 #   s.rubyforge_project = "log4j"
